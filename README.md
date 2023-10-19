@@ -8,7 +8,7 @@ aafox.netのFoxGPTの仕組みを簡単に説明したリポジトリです．Fo
 
 # ブログへのリンク
 会員登録なしで簡単にコミュニケーションがとれます．
-* リンク：https://aafox.net/tec/
+* リンク：https://aafox.net/fgpt/
 
 # AI部分で使用している技術
  
